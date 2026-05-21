@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm jatin shekhawat</h1>
-<h3 align="center">passionate about vlsi design</h3>
+<h3 align="center"></h3>
 
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/kvssankar/kvssankar/main/programmer.gif">
 
